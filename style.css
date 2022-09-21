@@ -1,0 +1,17 @@
+* {
+    text-decoration: none;
+}
+
+body {
+    background-color: darkslategray;
+    background-image: url(https://cdn.discordapp.com/attachments/862489284967530536/1022222817909027050/34604.jpg?size=4096);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-weight: 600;
+    font-family: 'Exo 2', sans-serif;
+}
